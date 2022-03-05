@@ -1,0 +1,6 @@
+b1:ls
+b2:git init
+b3:git add .
+b4:git commit -m " commit"
+b5:git remote set-url origin https://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@github.com/quang1409thanh/21020791LTNC.git
+b6:git push origin master
