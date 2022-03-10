@@ -5,4 +5,4 @@ b4:git commit -m " commit"
 b5:git remote set-url origin https://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@github.com/quang1409thanh/21020791LTNC.git
 b6:git push origin master
 (lưu ý nếu đẩy code chưa vào github thì sẽ dẫn tới 1 trang bắt comfirm pass)
-còn nếu đang mở trình duyệt và vào github thì không cần
+còn nếu đang mở trình duyệt và vào github thì không cần// chưa chắc lắm :33// không còn đúng nữa
